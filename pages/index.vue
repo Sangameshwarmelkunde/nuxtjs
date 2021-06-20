@@ -6,7 +6,7 @@
         nuxtjs
       </h1>
       <h2 class="subtitle">
-        My New Updated astonishing Nuxt.js project
+        My New Updated 1 sec algo astonishing Nuxt.js project
       </h2>
       <div class="links">
         <a
